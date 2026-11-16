@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="web/public/logo.svg" alt="DataSPBackup" width="84">
+  <img src="assets/presentation.png" alt="DataSPBackup — Sauvegarde, test, restauration et suivi" width="720">
 </p>
 
 <h1 align="center">DataSPBackup</h1>

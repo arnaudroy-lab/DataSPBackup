@@ -32,7 +32,7 @@ async function submit() {
     <form class="card login-box" @submit.prevent="submit">
       <div class="brand-lockup">
         <AppLogo />
-        <div class="brand">DataSP<span>Backup</span><small class="ver">v{{ version }}</small></div>
+        <div class="brand">Data<span>SP</span>Backup<small class="ver">v{{ version }}</small></div>
       </div>
       <!-- <p class="muted">Sauvegarde PostgreSQL + vérification Supabase</p> -->
       <label>Email</label>
