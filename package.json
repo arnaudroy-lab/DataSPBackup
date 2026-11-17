@@ -5,10 +5,10 @@
 	"description": "Sauvegarde PostgreSQL auto-hébergée avec vérification de restauration fiable pour Supabase",
 	"license": "Apache-2.0",
 	"author": "Burotica",
-	"homepage": "https://github.com/burotica49/dataspbackup#readme",
+	"homepage": "https://github.com/arnaudroy-lab/DataSPBackup#readme",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/burotica49/dataspbackup.git"
+		"url": "https://github.com/arnaudroy-lab/DataSPBackup.git"
 	},
 	"workspaces": [
 		"server",
